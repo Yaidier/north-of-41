@@ -1,0 +1,66 @@
+.wn_about_section .wn_section_wrapper {
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.wn_about_columns {
+  margin: 20px 10px;
+}
+
+.wn_reviews_wrapper > div {
+  display: block;
+}
+
+.wn_review_column {
+  width: 100%;
+  min-height: 350px;
+}
+
+.wn_review_column:nth-child(2) {
+  border: none;
+}
+
+.wn_reviews_section {
+  height: 950px;
+}
+
+.wn_venture_section > div {
+  padding: 0px !important;
+}
+
+.wn_venture_columns {
+  padding: 10px;
+}
+
+.wn_venture_content {
+  max-width: unset;
+}
+
+.wn_venture_capital_section {
+  padding-top: 150px;
+}
+
+.wn_venture_capital_section .wn_flex_sb_top {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.wn_venture_capital_section .wn_3_columns {
+  margin: 25px 10px;
+}
+
+/************************************* First Content Paint ***************************************/
+.wn-training_content {
+  display: block;
+}
+
+.wn-training_content_item {
+  width: 100%;
+  margin-top: 30px;
+}
+
+.wn-training_content_item_back_img {
+  position: static;
+}
+/*# sourceMappingURL=max-width-767.css.map */

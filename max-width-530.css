@@ -1,0 +1,88 @@
+.wn_n41_upper_header {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.wn_n41_contact {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.wn_n41_upper_header {
+  height: 55px;
+}
+
+.wn_hero_banner > ul > li {
+  display: inline-block;
+}
+
+.wn_hero_banner_wrapper {
+  height: unset;
+  bottom: -56px;
+}
+
+.wn_hero_banner {
+  height: unset;
+  padding: 20px;
+}
+
+.wn_hero_banner > ul {
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+}
+
+.wn_hero_banner_wrapper {
+  top: calc(100% - 56px);
+  height: unset;
+  bottom: unset !important;
+}
+
+.wn_about_section {
+  margin-top: 132px;
+}
+
+.wn_vp-200 {
+  padding: 100px 10px;
+}
+
+/************************************* First Content Paint ***************************************/
+.wn_image_card .wn_span_bold {
+  font-size: 16px;
+}
+
+.wn-training_buttons {
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.wn-training_buttons button {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 1 250px;
+          flex: 1 1 250px;
+}
+
+.wn-training_buttons button:first-child {
+  margin-right: 0px;
+}
+
+.wn-training_buttons button:last-child {
+  margin-top: 10px;
+}
+
+.wn-pricing_item {
+  max-width: 530px;
+}
+
+.wn-partners_logo_link {
+  padding: 20px 10px;
+}
+/*# sourceMappingURL=max-width-530.css.map */

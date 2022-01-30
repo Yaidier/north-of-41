@@ -1,0 +1,102 @@
+.wn_n41_nav_menu {
+    display: none;
+}
+
+.wn_n41_nav_menu_responsive {
+    display: block;
+}
+
+.wn_hero_banner_wrapper {
+    bottom: -56px;
+}
+
+.wn_hero_banner_square_orn {
+    display: none;
+}
+
+.wn_hero_banner > ul > li > span, 
+.wn_hero_banner > ul > li > p {
+    font-size: 12px;
+}
+
+.wn_about_columns {
+    width: 100%;
+    margin: 10px;
+}
+
+.wn_venture_section_1 > div {
+    flex-wrap: wrap-reverse;
+}
+.wn_venture_section_2 > div {
+    flex-wrap: wrap;
+}
+
+
+.wn_venture_content_left {
+    padding-left: unset;
+}
+
+.wn_section_wrapper {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+
+/************************************* First Content Paint ***************************************/
+
+
+.wn_venture_capital_section .wn_3_columns {
+    width: 100%;
+}
+
+.wn-events_newsletter {
+    display: block;
+    padding: 0px 20px;
+    width: 100%;
+    height: unset;
+}
+
+.wn-events_newsletter_content {
+    margin: 20px 0px;
+}
+
+.wn-accordion {
+    .wn_left_h2_dark {
+        margin-top: 0px;
+    }
+}
+
+.wn-speakers_cards {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.wn-speakers_card {
+    margin-left: 10px;
+    margin-right: 10px;
+    flex: 1 1 288px;
+    max-width: 360px;
+}
+
+.wn-speakers .wn_section_wrapper {
+    height: unset;
+}
+
+.wn-footer_main {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.wn-footer_column {
+    flex: 1 1 180px;
+
+    margin: 20px;
+    
+    &:first-child {
+        min-width: 280px;
+    }
+}
+
+.wn-footer_bottom {
+    margin-top: 50px;
+}
